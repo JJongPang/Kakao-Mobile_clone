@@ -8,7 +8,6 @@
 .chat-room__content {
     display: flex;
     justify-content: space-between;
-    
 }
 
 .chat-room__partner {

@@ -3,6 +3,7 @@
 @import "nav-bar.css";
 @import "friends.css";
 @import "chat_main.css";
+@import "news.css";
 
 body {
     background-color: black;

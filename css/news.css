@@ -1,0 +1,48 @@
+/* news header */
+.news .page-header {
+    margin-bottom: 30px;
+}
+
+.news-header__title .title__urgent,
+.news-header__title .title__fun,
+.news-header__title .title__entertainment,
+.news-header__title .title__sports {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.news-header__title .title__main {
+    color: #d1f532;
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 22px;
+    border-bottom: 4px solid  #d1f532; 
+}
+
+.news-header__title .title__icon i {
+    font-size: 25px;
+    color: #d1f532;
+    opacity: 0.5;
+}
+
+/* news advertising */
+.advertising__img .img__img {
+    height: 90px ;
+    width: 590px;
+    margin-bottom: 30px;
+}
+
+/* news list */
+.news-list__content {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #2c2c2b;
+}
+
+.news-list .news-list__content .list__content {
+    color: white;
+    font-weight: 600;
+    padding-bottom: 20px;
+    opacity: 0.8;
+}
