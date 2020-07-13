@@ -1,0 +1,29 @@
+@import "reset.css";
+@import "status-bar.css";
+@import "nav-bar.css";
+@import "friends.css";
+
+body {
+    background-color: black;
+    padding: 10px 20px;
+    color: #020202;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* screen header  CSS*/
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.page-header .page-header__column .page-header__title,
+.page-header i {
+    font-size: 25px;
+    color: #d1f532;
+}
+
+.page-header__column .header__icon {
+    padding-left: 20px;
+}

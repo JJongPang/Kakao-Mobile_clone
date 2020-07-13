@@ -1,0 +1,10 @@
+.nav-bar .nav-bar__list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.list__item i {
+    color: #d1f532;
+    font-size: 30px;  
+    opacity: 0.8;
+}

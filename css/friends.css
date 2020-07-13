@@ -1,0 +1,92 @@
+.header-profile .header-profile__contant {
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.header-profile__contant .profile__img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+/* check check check*/
+.header-profile__contant .profile__name,
+.content__main,
+.channel-profile__name,
+.birthday-profile__name,
+.friendslist-profile__name {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    opacity: 0.9;
+}
+
+.friends-items .freinds-items__title {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    border-top: 1px solid #d1f532;
+    color: #d1f532;
+    opacity: 0.8;
+}
+
+.friends-items__birthday .items-birthday__list,
+.friends-items__channel .items-channel__list,
+.friends-items__friendslist .items-friendslist__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.friends-items__birthday .items-birthday__list .items-birthday__column .birthday-content,
+.friends-items__channel .items-channel__list .items-channel__column .channel-content,
+.friends-items__friendslist .items-friendslist__list .items-friendslist__column .friendslist-content {
+    display: flex;
+    align-items: center;
+}
+
+.channel-content .channel-content__content .content__main,
+.friendslist-content .friendslist-content__content .content__main {
+    display: block;
+}
+
+.birthday-option,
+.friendslist-option {
+    padding: 10px 10px;
+    border: 1px solid #d1f532;
+    border-radius: 50px;
+}
+
+.birthday-profile__name,
+.birthday-option__title {
+    margin-right: 5px;
+}
+
+.birthday-option,
+.channel-option,
+.friendslist-option {
+    color: #d1f532;
+    opacity: 0.8;
+ }
+
+.channel-content__content .content__serve,
+.friendslist-content__content .content__serve {
+    color: white;
+    opacity: 0.7;
+}
+
+/* profile img */
+.profile-img__img {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+
+
+
