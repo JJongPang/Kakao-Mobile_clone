@@ -5,10 +5,10 @@
 }
 
 .header-profile__contant .profile__img {
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
     margin-right: 20px;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 /* check check check*/
@@ -16,7 +16,8 @@
 .content__main,
 .channel-profile__name,
 .birthday-profile__name,
-.friendslist-profile__name {
+.friendslist-profile__name,
+.birthday-profile__icon {
     margin-bottom: 10px;
     font-size: 20px;
     font-weight: 600;
@@ -80,11 +81,11 @@
 
 /* profile img */
 .profile-img__img {
-    height: 80px;
-    width: 80px;
+    height: 50px;
+    width: 50px;
     margin-bottom: 20px;
     margin-right: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 

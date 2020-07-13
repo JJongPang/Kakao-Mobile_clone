@@ -1,0 +1,37 @@
+.chat-advertising__box .advertising-box-img {
+    margin: 20px 0px;
+    height: 90px ;
+    width: 590px;
+    border-radius: 10px;
+}
+
+.chat-room__content {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.chat-room__partner {
+    display: flex;
+}
+
+.details__name {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color:white;
+    opacity: 0.9;
+}
+
+.details__preview {
+    color: white;
+    opacity: 0.7;
+}
+
+.chat-room__timecheck {
+    color: white;
+    font-size: 14px;
+    opacity: 0.7
+}
+

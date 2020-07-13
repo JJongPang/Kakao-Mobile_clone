@@ -2,6 +2,7 @@
 @import "status-bar.css";
 @import "nav-bar.css";
 @import "friends.css";
+@import "chat_main.css";
 
 body {
     background-color: black;
