@@ -29,8 +29,9 @@
 /* news advertising */
 .advertising__img .img__img {
     height: 90px ;
-    width: 590px;
+    width: 570px;
     margin-bottom: 30px;
+     border-radius: 5px;
 }
 
 /* news list */
@@ -46,3 +47,70 @@
     padding-bottom: 20px;
     opacity: 0.8;
 }
+
+/* news news */
+.news-img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-news__column img {
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.news__content {
+    color: white;
+}
+
+/* news #search start */
+.news-advertising__bottom {
+    margin: 20px 0px;
+}
+
+.advertising__bottom .img__img {
+    width: 570px;
+    height: 180px;
+    border-radius: 45px;
+}
+
+/* new search */
+.news-search {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    border: 5px solid yellow;
+    border-radius: 15px;
+}
+
+.search__check {
+    color: yellow;
+    font-size: 28px;
+    width: 600;
+}
+
+.search__engine,
+.search__icon {
+    color: white;
+    font-size: 25px;
+    opacity: 0.5;
+}
+
+.news-tag .tag__column-1,
+.news-tag .tag__column-2 {  
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.tag__tag {
+    background-color: gainsboro;
+    margin-right: 30px;
+    padding: 10px 10px;
+    border: 2px solid  gainsboro;
+    border-radius: 45px;
+}
+
