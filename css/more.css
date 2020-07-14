@@ -1,0 +1,99 @@
+/* more header */
+.more-profile .more-profile__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.more-profile__column .profile__profile {
+    display: flex;
+    align-items: center;
+}
+
+.more-profile__detaile .detaile__name {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.profile__profile .profile__img {
+    width: 65px;
+    height: 65px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.more-profile__detaile .detaile__name,
+.profile__update .update__upate,
+.profile__update .update__icon {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    opacity: 0.9;
+}
+
+.profile__update .update__upate {
+    padding: 10px 30px;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+
+.profile__update .update__icon {
+    padding: 10px 10px;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+
+.more-profile__detaile .detaile__email {
+    color: white;
+    opacity: 0.6;
+}
+
+/* more pay  */
+.more-pay {
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border: 1px solid #242323;
+    border-radius: 10px;
+    background-color: #242323;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 20px;
+    opacity: 0.8;
+}
+
+.pay__pay {
+    padding: 10px 20px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.pay__system {
+    padding: 10px 20px;
+}
+
+.system__trans,
+.system__pay {
+    margin-right: 20px;
+}
+
+
+
+.more-menu {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu__icon i {
+    display: block;
+    margin-bottom: 5px
+}
+
+.menu__name {
+    margin-right: 60px;
+}
+
+
