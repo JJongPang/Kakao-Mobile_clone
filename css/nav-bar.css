@@ -1,3 +1,14 @@
+.nav-bar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 20px 0px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    border-bottom: 2px solid  #d1f532;
+}
+
 .nav-bar .nav-bar__list {
     display: flex;
     justify-content: space-around;

@@ -101,9 +101,13 @@
 
 .news-tag .tag__column-1,
 .news-tag .tag__column-2 {  
-    margin: 20px 0px;
     display: flex;
+    margin-bottom: 30px;
     align-items: center;
+}
+
+.news-tag .tag__column-2 {
+    margin-bottom: 100px;
 }
 
 .tag__tag {
